@@ -1,0 +1,22 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "An IP Address API",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haz3d/api.git"
+  },
+  "author": "haz3d",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/haz3d/api/issues"
+  },
+  "homepage": "https://github.com/haz3d/api#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
